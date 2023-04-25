@@ -7,6 +7,9 @@ function registrar(){
 
 /* Criar objeto que seja um posto qual a pessoa possa inserir e excluir.*/
 
-function comentario () {
-    let comentario
+function Comentario () {
+    var postagem = document.getElementById("texto")
+    var postar = new String(postagem)
+    alert(`${postar}`)
 }
+
