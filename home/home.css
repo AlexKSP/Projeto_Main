@@ -68,3 +68,7 @@ input.button{
 input.button:hover{
     background-color: #3462b3;
 }
+
+.newDiv{
+    background-color: #3b154d;
+}
